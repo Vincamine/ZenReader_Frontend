@@ -1,4 +1,4 @@
-const API_ENDPOINT = 'http://127.0.0.1:5000/api/execute';
+const API_ENDPOINT = 'http://127.0.0.1:8000/api/execute';
 
 /**
  * Send extracted text to the backend for processing.
